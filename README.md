@@ -162,8 +162,7 @@ For support and questions, please:
 
 For inquiries, reach out through:
 - GitHub Issues
-- Email: [your-email@example.com]
-- Discord: [server-link]
+- Email: lakshanudara817@gmail.com
 
 ---
 
